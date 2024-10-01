@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related docker APIs "
+  message: "Welcome to Sachin Keche GitHub repository related Spring Cloud server "
   contactDetails:
-    name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    name: "Sachin Keche- Developer"
+    email: "sachinrkeche@gmail.com"
   onCallSupport:
-    - (555) 555-1234
+    - (91) 9673550117
     - (555) 523-1345
