@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Sachin Keche GitHub repository related Spring Cloud server "
+  message: "Welcome to Sachin Keche GitHub repository related Spring Cloud server local env"
   contactDetails:
     name: "Sachin Keche- Developer"
     email: "sachinrkeche@gmail.com"
